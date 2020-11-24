@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5859
   title: ཆོས་ཀྱི་སྡོམ་བཞི་བསྟན་པའི་མདོ་
-  volume: ''
+  volume:
+    8719b086ef754002ba5a196f08f5497e:
+      image_group_id: I1KG5885
+      title: Volume 1 of chos kyi sdom bzhi bstan pa'i mdo
+      volume_number: 1
+      total_pages: 318
   author: ''
+ebook_metadata:
+  title: ཆོས་ཀྱི་སྡོམ་བཞི་བསྟན་པའི་མདོ་
+  author: ''
+  sku: P006950
+  cover: cover.jpg
+  layers:
+  - pagination
