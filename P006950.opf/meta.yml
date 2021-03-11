@@ -5,11 +5,12 @@ source_metadata:
   title: ཆོས་ཀྱི་སྡོམ་བཞི་བསྟན་པའི་མདོ་
   author: ''
   volumes:
-    dee9aba6f53648ab80c67d674e6b635f:
+    8719b086ef754002ba5a196f08f5497e:
       image_group_id: I1KG5885
-      title: ''
+      title: Volume 1 of chos kyi sdom bzhi bstan pa'i mdo
       volume_number: 1
       total_pages: 318
+      base_file: v001.txt
 ebook_metadata:
   title: ཆོས་ཀྱི་སྡོམ་བཞི་བསྟན་པའི་མདོ་
   author: ''
